@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/myapp/",
+  "homepage": "https://Ashika3105.github.io/myapp",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
